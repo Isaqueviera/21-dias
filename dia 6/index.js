@@ -16,8 +16,9 @@ for(let contador = 0; contador <= 5 ; contador++){
        console.log('===================')
 
 for(let contador = 0; contador <= 5 ; contador++){
-    console.log(
-        numero3 + 'x' + contador + '=' + numero3*contador
+        console.log(
+            numero3 + 'x' + contador + '=' + numero3*contador
     )}
+
 
 
