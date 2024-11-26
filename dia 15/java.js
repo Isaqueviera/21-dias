@@ -9,6 +9,7 @@ function numerosComuns(arrayUm, arrayDois) {
             if (arrayUm[i] === arrayDois[t]) {
                 resultado.push(arrayUm[i]);
                 break;  
+                
             }
         }
     }
